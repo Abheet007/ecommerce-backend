@@ -8,7 +8,7 @@ Features
 1. Products API endpoint available at `/product/`.
 2. Orders API endpoint available at `/orders/`.
 3. Custom user authentication using JSON Web Tokens. The API is available at `/authentication/`.![Screenshot 2024-04-17 at 12.46.14 PM.png](static_files%2FScreenshot%202024-04-17%20at%2012.46.14%20PM.png) ![Screenshot 2024-04-17 at 12.46.26 PM.png](static_files%2FScreenshot%202024-04-17%20at%2012.46.26%20PM.png)
-4. Swagger documentation of the API endpoints is available at `/swagger/` ![alt text](/Users/ayushisingh/Desktop/ecommerce-backend/ecommerceBackend/static_files/Screenshot 2024-04-17 at 11.34.53 AM.png)
+4. Swagger documentation of the API endpoints is available at `/swagger/` ![Screenshot 2024-04-17 at 11.34.53 AM.png](static_files%2FScreenshot%202024-04-17%20at%2011.34.53%20AM.png)
 
 
 Main requirements
