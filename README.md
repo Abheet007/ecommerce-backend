@@ -54,7 +54,7 @@ Next, perform migration:
 
 `python3 manage.py migrate`
 
-At this point, one may want to create a superuser account and create some products. One can also use sample data provided in `products/fixtures.json` by running:
+At this point, one may want to create a superuser account and create some products. 
 
 `python3 manage.py createsuperuser`
 
