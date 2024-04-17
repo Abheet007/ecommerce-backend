@@ -10,6 +10,9 @@ Features
 3. Custom user authentication using JSON Web Tokens. The API is available at `/authentication/`.![Screenshot 2024-04-17 at 12.46.14 PM.png](static_files%2FScreenshot%202024-04-17%20at%2012.46.14%20PM.png) ![Screenshot 2024-04-17 at 12.46.26 PM.png](static_files%2FScreenshot%202024-04-17%20at%2012.46.26%20PM.png)
 4. Swagger documentation of the API endpoints is available at `/swagger/` ![Screenshot 2024-04-17 at 11.34.53 AM.png](static_files%2FScreenshot%202024-04-17%20at%2011.34.53%20AM.png)
 
+## ER Diagram
+Here is the Entity-Relationship diagram generated using https://dbdiagram.io/
+![Screenshot 2024-04-17 at 1.20.02 PM.png](static_files%2FScreenshot%202024-04-17%20at%201.20.02%20PM.png)
 
 Main requirements
 ------------
